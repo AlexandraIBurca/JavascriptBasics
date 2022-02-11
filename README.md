@@ -6,7 +6,7 @@ Contenuti:
 3. Installazione
 4. Contatti
 
-1. Il progetto prevede la creazione di un Counter: l'utente che entra nella pagina del Counter visualizzerà 0 come valore e avrà a disposizione due pulsanti +/- per cambiare il valore del counter e il tasto RESET.
+1. Il progetto prevede la creazione di un Counter: l'utente che entra nella pagina del Counter visualizzerà 0 come valore e avrà a disposizione due pulsanti +/- per cambiare il valore del counter e il tasto RESET. (https://counter-alexandraioanaburca.netlify.app/)
 
 2.  - Javascript
     - Html
